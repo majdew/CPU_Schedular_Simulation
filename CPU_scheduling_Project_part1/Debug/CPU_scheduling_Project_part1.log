@@ -1,0 +1,27 @@
+﻿  Source.cpp
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(120): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(181): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(209): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(263): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(267): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(357): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(361): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(400): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(412): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(428): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(445): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(459): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(475): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(499): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(529): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(533): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(561): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(565): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(596): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(602): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(632): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(683): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\documents\files\cpu_scheduling_project_part1\cpu_scheduling_project_part1\source.cpp(696): warning C4018: '<': signed/unsigned mismatch
+  CPU_scheduling_Project_part1.vcxproj -> C:\Users\majd1\Documents\files\CPU_scheduling_Project_part1\Debug\CPU_scheduling_Project_part1.exe
